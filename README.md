@@ -39,7 +39,7 @@ bash
 Copy
 Edit
 python infer-web.py
-Open your browser and go to http://localhost:7865
+Open RVC voice changer file
 
 🎙️ Using Custom Arabic Voices
 To train your own Arabic voice model:

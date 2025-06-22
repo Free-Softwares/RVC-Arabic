@@ -4,9 +4,7 @@
 
 This edition is specially optimized for Arabic voices, supporting dialects like Egyptian, Levantine, Gulf, and MSA (Modern Standard Arabic).
 
----
-
-## 🌟 Features
+## 🌟 Features ##
 
 - 🎤 Real-time voice conversion
 - 🗣️ Arabic voice model support
@@ -15,9 +13,7 @@ This edition is specially optimized for Arabic voices, supporting dialects like 
 - 🔁 Training & inference support for custom voices
 - 🎛️ Audio effects and noise suppression options
 
----
-
-## 📦 Installation
+## 📦 Installation ##
 
 > ⚠️ Requirements: Python 3.8+, NVIDIA GPU with CUDA support (for best performance)
 
